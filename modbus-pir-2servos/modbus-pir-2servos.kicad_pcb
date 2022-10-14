@@ -10173,7 +10173,7 @@
   (gr_text "Gnd" (at 103.125 96.835) (layer "F.SilkS") (tstamp 1649b09a-2ad6-4a2b-931f-e061a6b5852b)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
-  (gr_text "B" (at 103.125 101.835) (layer "F.SilkS") (tstamp 38932013-27ef-41f7-8c8a-35d810841ed3)
+  (gr_text "B" (at 102.8 104.4) (layer "F.SilkS") (tstamp 38932013-27ef-41f7-8c8a-35d810841ed3)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
   (gr_text "Reset" (at 126.8 120.8 90) (layer "F.SilkS") (tstamp 6196874f-3270-46c7-952d-c4f94510bd25)
@@ -10184,6 +10184,9 @@
   )
   (gr_text "12V" (at 103.3 115.7) (layer "F.SilkS") (tstamp 818fbd97-4baf-48bb-a8ad-56c6bc46be4c)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
+  )
+  (gr_text "V1.0.0" (at 115 119.2) (layer "F.SilkS") (tstamp 85bdff3b-a7d8-4b25-948c-e60a5c911c98)
+    (effects (font (size 2 2) (thickness 0.4)))
   )
   (gr_text "6V" (at 102.9 124.5) (layer "F.SilkS") (tstamp 8be13776-04bd-416a-8ba0-e7b30829bb33)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
@@ -10197,7 +10200,7 @@
   (gr_text "SIG" (at 103.2 126.9) (layer "F.SilkS") (tstamp 9a49d31e-2294-44a3-85e4-5a508bcd6bfc)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
-  (gr_text "A" (at 103.125 104.335) (layer "F.SilkS") (tstamp b0de5629-15b4-4ae6-b92e-c88bb0f3c98b)
+  (gr_text "A" (at 102.8 101.8) (layer "F.SilkS") (tstamp b0de5629-15b4-4ae6-b92e-c88bb0f3c98b)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
   (gr_text "INT" (at 103.125 106.935) (layer "F.SilkS") (tstamp b7debfe0-229e-46f8-83a1-8f18faa81fbb)
@@ -67361,16 +67364,6 @@
       a4223b07-53ef-41d6-bdae-21ed76992d83
       bcc147fd-0a05-4656-89e5-d89de22b4bcc
       c5abdef4-10cb-4f5e-b457-1fc09d981144
-    )
-  )
-  (group "" (id a889fece-ee7b-4c74-b079-91fe11f515c8)
-    (members
-      1649b09a-2ad6-4a2b-931f-e061a6b5852b
-      38932013-27ef-41f7-8c8a-35d810841ed3
-      b0de5629-15b4-4ae6-b92e-c88bb0f3c98b
-      b54ed3aa-5c56-4492-a9f9-0de029e51696
-      b7debfe0-229e-46f8-83a1-8f18faa81fbb
-      d30f7b74-ff79-4adf-8c62-eb9dab24d587
     )
   )
   (group "" (id ad05e203-ff4b-49c5-869f-be0cc76ce0e3)
