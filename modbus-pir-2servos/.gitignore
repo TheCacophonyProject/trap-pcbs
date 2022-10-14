@@ -30,4 +30,6 @@ fp-info-cache
 
 
 jlcpcb/*
-
+production/*
+*.step
+*.wrl
