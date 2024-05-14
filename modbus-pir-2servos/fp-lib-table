@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "cacophony-footprints")(type "KiCad")(uri "/home/cam/cac/kicad/kicad-libraries/cacophony-footprints.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "cacophony-footprints")(type "KiCad")(uri "/home/cam/cac/kicad/kicad-libraries/cacophony-footprints.pretty")(options "")(descr "")(disabled))
 )
